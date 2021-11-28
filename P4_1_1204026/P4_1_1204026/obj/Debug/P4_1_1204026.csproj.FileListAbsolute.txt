@@ -1,0 +1,9 @@
+c:\users\lenovo\documents\visual studio 2015\Projects\P4_1_1204026\P4_1_1204026\bin\Debug\P4_1_1204026.exe.config
+c:\users\lenovo\documents\visual studio 2015\Projects\P4_1_1204026\P4_1_1204026\bin\Debug\P4_1_1204026.exe
+c:\users\lenovo\documents\visual studio 2015\Projects\P4_1_1204026\P4_1_1204026\bin\Debug\P4_1_1204026.pdb
+c:\users\lenovo\documents\visual studio 2015\Projects\P4_1_1204026\P4_1_1204026\obj\Debug\P4_1_1204026.csprojResolveAssemblyReference.cache
+c:\users\lenovo\documents\visual studio 2015\Projects\P4_1_1204026\P4_1_1204026\obj\Debug\P4_1_1204026.Form1.resources
+c:\users\lenovo\documents\visual studio 2015\Projects\P4_1_1204026\P4_1_1204026\obj\Debug\P4_1_1204026.Properties.Resources.resources
+c:\users\lenovo\documents\visual studio 2015\Projects\P4_1_1204026\P4_1_1204026\obj\Debug\P4_1_1204026.csproj.GenerateResource.Cache
+c:\users\lenovo\documents\visual studio 2015\Projects\P4_1_1204026\P4_1_1204026\obj\Debug\P4_1_1204026.exe
+c:\users\lenovo\documents\visual studio 2015\Projects\P4_1_1204026\P4_1_1204026\obj\Debug\P4_1_1204026.pdb
